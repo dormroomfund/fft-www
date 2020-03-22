@@ -45,12 +45,12 @@ var guides = [
     bio: 'Afton is the cofounder and CEO of Modern Fertility, helping women everywhere get access to fertility information. Prior to this, she rebuilt 23AndMe’s consumer experience and worked in healthcare focused private equity.',
     imageSource: 'img/people/av.png'
   },
-  // {
-  //   name: 'Rebecca Kaden',
-  //   title: 'Partner at Union Square Ventures',
-  //   bio: 'Rebecca Kaden is a partner at Union Square Ventures. She began her career as a journalist and, prior to USV, was a Partner at Maveron, a consumer-focused early stage fund. Rebecca was born in New York City. She studied English and American Literature at Harvard and received her MBA from Stanford.',
-  //   imageSource: 'img/people/rk.png'
-  // },
+  {
+    name: 'Rebecca Kaden',
+    title: 'General Partner at Union Square Ventures',
+    bio: 'Rebecca is the General Partner at Union Square Ventures, investing in companies using the internet to re-shape the market. Prior to Union Square Ventures, she was a General Partner at Maveron, a consumer-focused early stage fund.',
+    imageSource: 'img/people/rk.png'
+  },
   {
     name: 'Fatima Dicko',
     title: 'CEO of Jetpack',
@@ -86,6 +86,46 @@ var guides = [
     title: 'CEO of Dark',
     bio: 'Ellen is the CEO and cofounder of Dark, helping people make scalable apps in an afternoon. Prior to this, she was VP Product and early team member at Lola.',
     imageSource: 'img/people/ec.png'
+  },
+  {
+    name: 'Deepa Gandhi',
+    title: 'COO of Dagne Dover',
+    bio: 'Deepa is the COO and co-founder of Dagne Dover, designing handbags to accommodate the lifestyles of modern women. Prior to Dange Dover, she drove growth as a Senior Merchandise Planner at Club Monaco.'
+  },
+  {
+    name: 'Alexandra Cavoulacos',
+    title: 'President of The Muse',
+    bio: 'Alexandra is the President and founder of The Muse, helping over 75 million people develop professionally through a career platform. She is also the co-author of The New Rules of Work, a WSJ best-selling book. Prior to founding The Muse, Alexandra was a management consultant at McKinsey & Company.'
+  },
+  {
+    name: 'Hayley Barna',
+    title: 'Partner at First Round Capital',
+    bio: 'Hayley is a Partner at First Round Capital, investing and supporting founders at seed stages. Prior to First Round, Haley was the co-CEO and co-founder of Birchbox, a skincare sample subscription service. She grew the brand to over a million subscribers, raised over $70M in venture capital, and jump-started the personalized subscription box trend.'
+  },
+  {
+    name: 'Lindsay Ullman',
+    title: 'CEO of Umbrella',
+    bio: 'Lindsay is the CEO and co-founder of Umbrella, providing easy and trusted help for homeowners over 65 years old. Prior to Umbrella, she was an investor at Sidewalk Labs and Partner at Google Ventures.'
+  },
+  {
+    name: 'Banu Guler',
+    title: 'CEO of Costar ',
+    bio: 'Banu is the CEO and co-founder of Costar, bringing astrology into the 21st century through a personalized, social experience. Prior to Costar, she was a consultant at Artnet.'
+  },
+  {
+    name: 'Katie Hunt',
+    title: 'CRO at Showfields',
+    bio: 'Katie is the CRO and co-founder of Showfields, allowing consumers to interact with brands, artists, and experiences. She is also an investor and co-founder at The Fund, a fund of founders and operators. Prior to Showfield, Katie was the Chief Brand Officer at Hinge and drove the relaunch of the product.'
+  },
+  {
+    name: 'Amanda Johnson',
+    title: 'COO at Mented Cosmetics',
+    bio: 'Amanda is the COO and co-founder of Mented Cosmetics, creating pigmented cosmetics products for women of color from all shade ranges. Prior to Mented Cosmetics, she was the Senior Manager at Barneys New York.'
+  },
+  {
+    name: 'Kelly Peeler',
+    title: 'CEO of MoneyMentor',
+    bio: 'Kelley is the CEO and co-founder of MoneyMentor, helping Gen Z navigate student loans over text messages using AI. MoneyMentor has been acquired by Commonbond. Prior to MoneyMentor, she was an investor at J.P Morgan.'
   }
 ];
 
